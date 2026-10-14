@@ -23,5 +23,5 @@ Cung cấp danh sách các hạng mục kiểm tra an toàn tiêu chuẩn hàng 
 
 ## Danh sách liên kết nộp bài
 - Link Figma: https://www.figma.com/design/aonA09tnmLBnYuyXC1WxS3/Safety-Checklist?node-id=0-1&t=FfufPxIsnVXNjpJx-1
-- Link GitHub: https://github.com/dinhtai2548/CSE122_Dinh_Trong_Tai.git
+- Link GitHub: https://github.com/dinhtai2548/CSE122_Dinh_Trong_Tai/tree/Safety-Checklist
 - Link Video: https://youtu.be/HxdMYHgaUcA?si=Yzt8P8n5AWke6uKy
