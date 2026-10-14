@@ -17,11 +17,11 @@ Cung cấp danh sách các hạng mục kiểm tra an toàn tiêu chuẩn hàng 
 - Lưu trữ, xuất báo cáo lịch sử kiểm tra và gửi cảnh báo ngay nếu phát hiện lỗi vi phạm nghiêm trọng.
 
 ## Công nghệ sử dụng
-- **HTML:** Semantic HTML (header, nav, main, section, article, footer, aside).
-- **CSS:** Flexbox, CSS Grid, Custom Variables, Media Queries (Responsive).
-- **JavaScript:** DOM Manipulation, Event Handling, Array Filtering, Export CSV.
+- HTML: Semantic HTML (`header`, `nav`, `main`, `section`, `article`, `footer`, `aside`).
+- CSS: Flexbox, CSS Grid, Custom Variables, Media Queries (Responsive).
+- JavaScript: DOM Manipulation, Event Handling, Array Filtering, Export CSV.
 
 ## Danh sách liên kết nộp bài
-- **Link Figma:** https://www.figma.com/design/aonA09tnmLBnYuyXC1WxS3/Safety-Checklist?node-id=0-1&t=FfufPxIsnVXNjpJx-1
-- **Link GitHub:** https://github.com/NguyenThiTam-cntt/BTL---SiteSafe---Corrective-Actions
-- **Link Video:** https://youtu.be/HxdMYHgaUcA?si=Yzt8P8n5AWke6uKy
+- Link Figma: https://www.figma.com/design/aonA09tnmLBnYuyXC1WxS3/Safety-Checklist?node-id=0-1&t=FfufPxIsnVXNjpJx-1
+- Link GitHub: https://github.com/NguyenThiTam-cntt/BTL---SiteSafe---Corrective-Actions
+- Link Video: https://youtu.be/HxdMYHgaUcA?si=Yzt8P8n5AWke6uKy
