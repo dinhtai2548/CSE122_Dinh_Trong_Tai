@@ -3,10 +3,10 @@
 ## Thông tin sinh viên
 - Họ và tên: Đinh Trọng Tài
 - Mã sinh viên: 2551060682
-- Lớp: 67CNTT1
+-  Lớp: 67CNTT1
 - Tên trang thực hiện: Kiểm tra an toàn (Safety Checklist)
 
-## Mục đích của trang
+##  Mục đích của trang
 Cung cấp danh sách các hạng mục kiểm tra an toàn tiêu chuẩn hàng ngày/hàng tuần tại công trường (máy móc, trang thiết bị bảo hộ, giàn giáo, điện công trường...), giúp kỹ sư và cán bộ an toàn dễ dàng rà soát, đánh giá tuân thủ và ghi nhận tình trạng thực tế trước khi bắt đầu ca làm việc.
 
 ## Các chức năng chính
